@@ -11,7 +11,9 @@ console.log(fruit);
 
 fruit.includes("apple") // includes 배열안에 apple이 들어있냐? 
 console.log(fruit.includes("apple")); //true, false 참 것짓으로 나옴
-ddd
+
+
+//ddd
 
    
 console.log("-----------------");
